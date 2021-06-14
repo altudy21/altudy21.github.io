@@ -21,9 +21,9 @@
 title: Altudy 2021 🚰
 email: altudy21@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A minimalist, bare-bones theme for Jekyll only using the Water.css
-  framework while still following the best practices possible for
-  accessibility and search-engine optimization.
+    If you can't explain it simply, 
+    you don't understand it well enough.
+    - Albert Einstein
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://altudy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: altudy21/altudy21.github.io
@@ -35,8 +35,8 @@ disqus: watery-jekyll
 
 author: Tae Jun Kim
 author_bio: >-
-  Hey there! 😄 My name is TJ, I'm a 21-year-old AI engineer and
-  writer from South Korea.
+  Hey there! 😄 My name is TJ, I'm a 21-year-old AI researcher 
+  and writer from South Korea.
 author_pic: https://brennanbrown.ca/img/avatar.png
 
 paginate: 4
