@@ -37,7 +37,7 @@ author: Tae Jun Kim
 author_bio: >-
   Hey there! 😄 My name is TJ, I'm a 21-year-old AI researcher 
   and writer from South Korea.
-author_pic: https://brennanbrown.ca/img/avatar.png
+author_pic: images/IMG_0276.JPG
 
 paginate: 4
 paginate_path: "/:num/"
